@@ -1,0 +1,9 @@
+[submodule "afl"]
+	path = afl
+	url = git@github.com:google/AFL.git
+[submodule "drill"]
+	path = drill
+	url = git@github.com:shellphish/driller.git
+[submodule "javafuzz"]
+	path = javafuzz
+	url = git@github.com:rohanpadhye/JQF.git
